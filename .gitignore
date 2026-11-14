@@ -1,0 +1,19 @@
+# 依存・ビルド成果物
+node_modules/
+dist/
+dev-dist/
+
+# テスト生成物
+e2e/shots/
+coverage/
+
+# ログ・環境
+*.log
+.env
+.env.*
+.DS_Store
+Thumbs.db
+
+# エディタ
+.vscode/
+.idea/
